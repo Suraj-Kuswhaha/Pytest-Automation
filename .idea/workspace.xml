@@ -1,0 +1,618 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3459afe4-a4b3-4134-b7f7-baa7a7bb753e" name="Changes" comment="21th Jan">
+      <change afterPath="$PROJECT_DIR$/JAN/ex08_Selenium_Actions_Windows_IFrame_JS/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAN/ex08_Selenium_Actions_Windows_IFrame_JS/test_Lab_Selenium_Actions_P1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAN/ex08_Selenium_Actions_Windows_IFrame_JS/test_Lab_Selenium_Actions_P2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAN/ex08_Selenium_Actions_Windows_IFrame_JS/test_Lab_Selenium_Actions_P3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAN/ex08_Selenium_Actions_Windows_IFrame_JS/test_Lab_Selenium_Actions_makemytrip.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAN/ex08_Selenium_Actions_Windows_IFrame_JS/test_Lab_Selenium_Windows_P1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;PramodDutta&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/PramodDutta/PyATB5xLearning.git&quot;,
+    &quot;accountId&quot;: &quot;c24d73df-db27-47a4-81b1-38b9ef6ccae0&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2oPXzNWfSgP1Vzbd9Lga4h02Ada" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Python tests for conftest.test_create_token.executor": "Run",
+    "Python tests.Python tests for test03_Selenium.test_vwo_login.executor": "Run",
+    "Python tests.Python tests for test04_Selenium_Commands.test_vwo_sample.executor": "Run",
+    "Python tests.Python tests for test05_Selenium_Commands.test_vwo_sample.executor": "Run",
+    "Python tests.Python tests for test08_Selenium_close_quit.test_katalon_firefox.executor": "Run",
+    "Python tests.Python tests for test09_Selenium_locators.test_katalon_firefox.executor": "Run",
+    "Python tests.Python tests for test10_Selenium_locators_Options.test_katalon_chrome.executor": "Run",
+    "Python tests.Python tests for test11_Selenium_locators_miniproject.test_app_vwo_login_chrome.executor": "Run",
+    "Python tests.Python tests for test12_Selenium_locators_miniproject_freetrail.test_app_vwo_login_chrome.executor": "Run",
+    "Python tests.Python tests for test13_Selenium_locators_miniproject_tagName.test_app_vwo_login_chrome.executor": "Run",
+    "Python tests.Python tests for test14_Selenium_locators_Xpath.test_app_vwo_login_chrome.executor": "Run",
+    "Python tests.Python tests for test_015_Waits.test_negative_app_vwo_com.executor": "Run",
+    "Python tests.Python tests for test_015_Waits_Explicit.test_negative_app_vwo_com.executor": "Run",
+    "Python tests.Python tests for test_Ebay_Selenium_Project.test_ebay.executor": "Run",
+    "Python tests.Python tests for test_Lab186_Pytest_Learning.test_method2.executor": "Run",
+    "Python tests.Python tests for test_Lab187_Pytest_Learning02.test_method2.executor": "Run",
+    "Python tests.Python tests for test_Lab187_Pytest_Learning02.test_method3.executor": "Run",
+    "Python tests.Python tests for test_Lab191_Pytest_POST.test_create_booking_negative_tc1.executor": "Run",
+    "Python tests.Python tests for test_Lab191_Pytest_POST.test_create_booking_positive_tc1.executor": "Run",
+    "Python tests.Python tests for test_Lab192_Pytest_POST.test_create_token.executor": "Run",
+    "Python tests.Python tests for test_Lab192_Pytest_POST_Token.test_create_token.executor": "Run",
+    "Python tests.Python tests for test_Lab193_Pytest_POST_Token.test_delete.executor": "Run",
+    "Python tests.Python tests for test_Lab193_Pytest_POST_Token.test_put_request.executor": "Run",
+    "Python tests.Python tests for test_Lab_Selenium_Actions_P1.test_verify_action_keyboard.executor": "Run",
+    "Python tests.Python tests for test_Lab_Selenium_Actions_P2.test_verify_action_mouse.executor": "Run",
+    "Python tests.Python tests for test_Lab_Selenium_Actions_P3.test_verify_action_mouse.executor": "Run",
+    "Python tests.Python tests for test_Lab_Selenium_Actions_makemytrip.test_verify_action_makemytrip.executor": "Run",
+    "Python tests.Python tests for test_Lab_Selenium_Windows_P1.test_verify_action_windows.executor": "Run",
+    "Python tests.Python tests for test_Selenium.test_vwo_login.executor": "Run",
+    "Python tests.Python tests for test_alerts_js.test_alerts_confirm.executor": "Run",
+    "Python tests.Python tests for test_alerts_js.test_alerts_js_alert.executor": "Run",
+    "Python tests.Python tests for test_alerts_js.test_alerts_prompt.executor": "Run",
+    "Python tests.Python tests for test_csv_read.Test_READ.test_read_csv.executor": "Run",
+    "Python tests.Python tests for test_csv_read.Test_READ.test_read_pandas.executor": "Run",
+    "Python tests.Python tests for test_fixture_demo.test_update.executor": "Run",
+    "Python tests.Python tests for test_fixture_demo_2.test_put.executor": "Run",
+    "Python tests.Python tests for test_fixture_demo_2.test_put_2.executor": "Run",
+    "Python tests.Python tests for test_fixture_demo_3.test_update_req_1.executor": "Run",
+    "Python tests.Python tests for test_makemytrip.test_alerts_js_alert_normal.executor": "Run",
+    "Python tests.Python tests for test_modal.test_alerts_js_alert_normal.executor": "Run",
+    "Python tests.Python tests for test_update.test_update_req_1.executor": "Run",
+    "Python tests.Python tests for test_web_automation.test_selenium.executor": "Run",
+    "Python.Lab-77_Local_Var.executor": "Run",
+    "Python.Lab001_Python_HelloWorld.executor": "Run",
+    "Python.Lab002_Python_Basics.executor": "Run",
+    "Python.Lab003_Python_Basics.executor": "Run",
+    "Python.Lab004.executor": "Run",
+    "Python.Lab005.executor": "Run",
+    "Python.Lab007_Variables_Identifier_Rules.executor": "Run",
+    "Python.Lab008_Dynamically_typed.executor": "Run",
+    "Python.Lab009.executor": "Run",
+    "Python.Lab010.executor": "Run",
+    "Python.Lab011.executor": "Run",
+    "Python.Lab012.executor": "Run",
+    "Python.Lab013.executor": "Run",
+    "Python.Lab014_Math_Functions.executor": "Run",
+    "Python.Lab016.executor": "Run",
+    "Python.Lab017.executor": "Run",
+    "Python.Lab018.executor": "Run",
+    "Python.Lab019.executor": "Run",
+    "Python.Lab020_BuiltIn_Functions.executor": "Run",
+    "Python.Lab021_UserInput.executor": "Run",
+    "Python.Lab022_User_Input_Sum_Of_Two_numbers.executor": "Run",
+    "Python.Lab023_Strings.executor": "Run",
+    "Python.Lab024_Strings.executor": "Run",
+    "Python.Lab025_Strings.executor": "Run",
+    "Python.Lab027_Escape_Char.executor": "Run",
+    "Python.Lab028_Escape_Char.executor": "Run",
+    "Python.Lab029_Task1.executor": "Run",
+    "Python.Lab030_Task2.executor": "Run",
+    "Python.Lab031_Operators.executor": "Run",
+    "Python.Lab032_Operator_Arhematic.executor": "Run",
+    "Python.Lab033_Operators_P1.executor": "Run",
+    "Python.Lab033_Operators_P2.executor": "Run",
+    "Python.Lab035_Operators_P4.executor": "Run",
+    "Python.Lab036_Operators_P5.executor": "Run",
+    "Python.Lab037_Operators_P6.executor": "Run",
+    "Python.Lab038_Operators_P7.executor": "Run",
+    "Python.Lab039_Operators_P8.executor": "Run",
+    "Python.Lab040_Operators_P9.executor": "Run",
+    "Python.Lab041_Ternary_Operators.executor": "Run",
+    "Python.Lab041_User_Input_Ternary_Operators.executor": "Run",
+    "Python.Lab042_Coding_Q.executor": "Run",
+    "Python.Lab043.executor": "Run",
+    "Python.Lab044_Q.executor": "Run",
+    "Python.Lab045_If_Else_Condition.executor": "Run",
+    "Python.Lab046_if_else.executor": "Run",
+    "Python.Lab047_Grade_Calc.executor": "Run",
+    "Python.Lab048.executor": "Run",
+    "Python.Lab050_For_Loop.executor": "Run",
+    "Python.Lab051.executor": "Run",
+    "Python.Lab053_While.executor": "Run",
+    "Python.Lab054_For.executor": "Debug",
+    "Python.Lab055_For_break.executor": "Run",
+    "Python.Lab056_Q.executor": "Run",
+    "Python.Lab057_Pass_Break.executor": "Run",
+    "Python.Lab058_Q.executor": "Run",
+    "Python.Lab059_Continue.executor": "Run",
+    "Python.Lab060_Match_Statement.executor": "Run",
+    "Python.Lab061.executor": "Run",
+    "Python.Lab062_Functions.executor": "Run",
+    "Python.Lab063_Functions_Part2.executor": "Run",
+    "Python.Lab066_Pass.executor": "Run",
+    "Python.Lab067_Functions_Types.executor": "Run",
+    "Python.Lab068_Functions_Input.executor": "Run",
+    "Python.Lab069_Functions_Types.executor": "Run",
+    "Python.Lab070_Functions_IQ.executor": "Run",
+    "Python.Lab071_IQ.executor": "Run",
+    "Python.Lab072_Args.executor": "Run",
+    "Python.Lab073_Real_Args.executor": "Run",
+    "Python.Lab075.executor": "Run",
+    "Python.Lab078_Inner_Functions.executor": "Run",
+    "Python.Lab079_Decortors.executor": "Run",
+    "Python.Lab080_Decor.executor": "Run",
+    "Python.Lab081_WithDecor.executor": "Run",
+    "Python.Lab082_Real_Decor.executor": "Run",
+    "Python.Lab083_Decor_2.executor": "Run",
+    "Python.Lab085_IQ_FiizBuzz.executor": "Run",
+    "Python.Lab087_Type_Conversion.executor": "Run",
+    "Python.Lab089_For_Loop.executor": "Run",
+    "Python.Lab090_Lambda.executor": "Run",
+    "Python.Lab091_Lambda.executor": "Run",
+    "Python.Lab092_Lambda.executor": "Run",
+    "Python.Lab093_Lambda.executor": "Run",
+    "Python.Lab094_Lambda_Mul.executor": "Run",
+    "Python.Lab095_Lambda.executor": "Run",
+    "Python.Lab096_List.executor": "Run",
+    "Python.Lab097_List.executor": "Run",
+    "Python.Lab098_List.executor": "Run",
+    "Python.Lab099_Tuple.executor": "Run",
+    "Python.Lab100_Tuple.executor": "Run",
+    "Python.Lab101_Tuple.executor": "Run",
+    "Python.Lab102_SET.executor": "Run",
+    "Python.Lab103_SET_P2.executor": "Run",
+    "Python.Lab104_SET_P3.executor": "Run",
+    "Python.Lab105_SET.executor": "Run",
+    "Python.Lab106_Dict.executor": "Run",
+    "Python.Lab107_Dict_P2.executor": "Run",
+    "Python.Lab108_Dict_Mul.executor": "Run",
+    "Python.Lab109_Dict_Mul.executor": "Run",
+    "Python.Lab110_Dict_Concepts.executor": "Run",
+    "Python.Lab111_Dict_Frequency_Char_String.executor": "Run",
+    "Python.Lab112_Dict.executor": "Run",
+    "Python.Lab113_Dict_IQ_Max_Values.executor": "Run",
+    "Python.Lab114_IQ_Dict.executor": "Run",
+    "Python.Lab115_Dict_Dup_Keys.executor": "Run",
+    "Python.Lab115_Dict_IQ.executor": "Run",
+    "Python.Lab116_IQ_count_vowel.executor": "Run",
+    "Python.Lab118_Class_Dog_P2.executor": "Run",
+    "Python.Lab119_Class_Dog_P2.executor": "Run",
+    "Python.Lab121_Person.executor": "Run",
+    "Python.Lab122_Calc.executor": "Run",
+    "Python.Lab123_Calc_PC.executor": "Run",
+    "Python.Lab124_OOps.executor": "Run",
+    "Python.Lab125_OOps.executor": "Run",
+    "Python.Lab126_Class_Instance.executor": "Run",
+    "Python.Lab127_Encap.executor": "Run",
+    "Python.Lab128_Ecaps.executor": "Run",
+    "Python.Lab129_Ecaps_ENV.executor": "Run",
+    "Python.Lab130_Ecap_Example.executor": "Run",
+    "Python.Lab131_Ecap_Example.executor": "Run",
+    "Python.Lab132_Ecap_Personal.executor": "Run",
+    "Python.Lab133_Inheritance_Single.executor": "Run",
+    "Python.Lab134_Inheritance_Single.executor": "Run",
+    "Python.Lab135_Inheritance_Multiple.executor": "Run",
+    "Python.Lab136_Inheritance_Multiple.executor": "Run",
+    "Python.Lab138_Inheritance_Hierarchical.executor": "Run",
+    "Python.Lab141_Polymorphsim.executor": "Run",
+    "Python.Lab143_Polymorphsim_Method_Override.executor": "Run",
+    "Python.Lab144_Poly.executor": "Run",
+    "Python.Lab145_Poly_Method_Overloading_Fixed.executor": "Run",
+    "Python.Lab146_Poly_Method_Overloading_Fixed.executor": "Run",
+    "Python.Lab147_Poly_Method_Overrding.executor": "Run",
+    "Python.Lab148_Method_Overriding_REAL.executor": "Run",
+    "Python.Lab149_Abstraction_P1.executor": "Run",
+    "Python.Lab149_Abstraction_P2.executor": "Run",
+    "Python.Lab151_Abstraction_P3.executor": "Run",
+    "Python.Lab152_Abstraction_P4.executor": "Run",
+    "Python.Lab153_Static.executor": "Run",
+    "Python.Lab155_Static_P2.executor": "Run",
+    "Python.Lab157_Exception.executor": "Run",
+    "Python.Lab158_Exception.executor": "Run",
+    "Python.Lab159_Exception.executor": "Run",
+    "Python.Lab160_Exception.executor": "Run",
+    "Python.Lab161_Exception.executor": "Run",
+    "Python.Lab162_Exception.executor": "Run",
+    "Python.Lab163_Exception.executor": "Run",
+    "Python.Lab164_Exception.executor": "Run",
+    "Python.Lab165_Exception_Fix.executor": "Run",
+    "Python.Lab167_Exception.executor": "Run",
+    "Python.Lab168_Exception_Else_Finally.executor": "Run",
+    "Python.Lab169_Exception_Else_Finally.executor": "Run",
+    "Python.Lab170_Exception_Else_Finally.executor": "Run",
+    "Python.Lab170_Exception_OS.executor": "Run",
+    "Python.Lab171_Exception_OS.executor": "Run",
+    "Python.Lab172_Exception_OS.executor": "Run",
+    "Python.Lab173_Exception_Custom_Exception.executor": "Run",
+    "Python.Lab173_File_IO.executor": "Run",
+    "Python.Lab174_Main_Method.executor": "Run",
+    "Python.Lab176_Main_Method.executor": "Run",
+    "Python.Lab177_Main_Method.executor": "Run",
+    "Python.Lab178_Write_File.executor": "Run",
+    "Python.Lab179_CSV_File.executor": "Run",
+    "Python.Lab179_CSV_File_Pandas.executor": "Run",
+    "Python.Lab182_Modulue_P1.executor": "Run",
+    "Python.Lab183_Import_From.executor": "Run",
+    "Python.Lab184_Import_From.executor": "Run",
+    "Python.Lan049_For_Loop.executor": "Debug",
+    "Python.laB086_iq_Triangle_Classifier.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/promode/PycharmProjects/PyATB5xLearning/JAN/ex08_Selenium_Actions_Windows_IFrame_JS"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/JAN/ex08_Selenium_Actions_Windows_IFrame_JS" />
+      <recent name="$PROJECT_DIR$/JAN/ex06_Selenium_Alerts" />
+      <recent name="$PROJECT_DIR$/JAN/ex05_Selenium_Waits" />
+      <recent name="$PROJECT_DIR$/JAN/ex04_Selenium_Locators_Xpath" />
+      <recent name="$PROJECT_DIR$/JAN/ex03_Selenium_Locators" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/JAN/ex01_SeleniumTest" />
+      <recent name="$PROJECT_DIR$/Nov/ex_14112024_Condition_Loops" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Python tests for test_Lab_Selenium_Windows_P1.test_verify_action_windows">
+    <configuration name="Python tests for test_Lab_Selenium_Actions_P1.test_verify_action_keyboard" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PyATB5xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/JAN/ex08_Selenium_Actions_Windows_IFrame_JS" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_Lab_Selenium_Actions_P1.test_verify_action_keyboard&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_Lab_Selenium_Actions_P2.test_verify_action_mouse" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PyATB5xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/JAN/ex08_Selenium_Actions_Windows_IFrame_JS" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_Lab_Selenium_Actions_P2.test_verify_action_mouse&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_Lab_Selenium_Actions_P3.test_verify_action_mouse" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PyATB5xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/JAN/ex08_Selenium_Actions_Windows_IFrame_JS" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_Lab_Selenium_Actions_P3.test_verify_action_mouse&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_Lab_Selenium_Actions_makemytrip.test_verify_action_makemytrip" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PyATB5xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/JAN/ex08_Selenium_Actions_Windows_IFrame_JS" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_Lab_Selenium_Actions_makemytrip.test_verify_action_makemytrip&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_Lab_Selenium_Windows_P1.test_verify_action_windows" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PyATB5xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/JAN/ex08_Selenium_Actions_Windows_IFrame_JS" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_Lab_Selenium_Windows_P1.test_verify_action_windows&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests for test_Lab_Selenium_Windows_P1.test_verify_action_windows" />
+        <item itemvalue="Python tests.Python tests for test_Lab_Selenium_Actions_makemytrip.test_verify_action_makemytrip" />
+        <item itemvalue="Python tests.Python tests for test_Lab_Selenium_Actions_P3.test_verify_action_mouse" />
+        <item itemvalue="Python tests.Python tests for test_Lab_Selenium_Actions_P2.test_verify_action_mouse" />
+        <item itemvalue="Python tests.Python tests for test_Lab_Selenium_Actions_P1.test_verify_action_keyboard" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-5b207ade9991-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.17890.14" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3459afe4-a4b3-4134-b7f7-baa7a7bb753e" name="Changes" comment="" />
+      <created>1730772445257</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730772445257</updated>
+    </task>
+    <task id="LOCAL-00001" summary="7th nov">
+      <option name="closed" value="true" />
+      <created>1730947912243</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1730947912243</updated>
+    </task>
+    <task id="LOCAL-00002" summary="9th nov">
+      <option name="closed" value="true" />
+      <created>1731119022365</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1731119022365</updated>
+    </task>
+    <task id="LOCAL-00003" summary="9th nov - Part2">
+      <option name="closed" value="true" />
+      <created>1731120593350</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1731120593350</updated>
+    </task>
+    <task id="LOCAL-00004" summary="9th nov - Part3">
+      <option name="closed" value="true" />
+      <created>1731120926853</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1731120926853</updated>
+    </task>
+    <task id="LOCAL-00005" summary="12th Nov">
+      <option name="closed" value="true" />
+      <created>1731379062486</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1731379062486</updated>
+    </task>
+    <task id="LOCAL-00006" summary="16th Nov">
+      <option name="closed" value="true" />
+      <created>1731725113913</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1731725113913</updated>
+    </task>
+    <task id="LOCAL-00007" summary="19th Nov">
+      <option name="closed" value="true" />
+      <created>1731983973210</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1731983973210</updated>
+    </task>
+    <task id="LOCAL-00008" summary="21th">
+      <option name="closed" value="true" />
+      <created>1732156871027</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1732156871027</updated>
+    </task>
+    <task id="LOCAL-00009" summary="23th">
+      <option name="closed" value="true" />
+      <created>1732330087403</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1732330087403</updated>
+    </task>
+    <task id="LOCAL-00010" summary="26th">
+      <option name="closed" value="true" />
+      <created>1732588877629</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1732588877629</updated>
+    </task>
+    <task id="LOCAL-00011" summary="28th">
+      <option name="closed" value="true" />
+      <created>1732761207859</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1732761207859</updated>
+    </task>
+    <task id="LOCAL-00012" summary="30th">
+      <option name="closed" value="true" />
+      <created>1732932932127</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1732932932127</updated>
+    </task>
+    <task id="LOCAL-00013" summary="30th - paRT 2">
+      <option name="closed" value="true" />
+      <created>1732934669555</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1732934669555</updated>
+    </task>
+    <task id="LOCAL-00014" summary="3rd Dec">
+      <option name="closed" value="true" />
+      <created>1733208699551</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1733208699551</updated>
+    </task>
+    <task id="LOCAL-00015" summary="5th dec">
+      <option name="closed" value="true" />
+      <created>1733366722058</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1733366722058</updated>
+    </task>
+    <task id="LOCAL-00016" summary="7th Dec">
+      <option name="closed" value="true" />
+      <created>1733539575478</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1733539575478</updated>
+    </task>
+    <task id="LOCAL-00017" summary="10th Dec">
+      <option name="closed" value="true" />
+      <created>1733795928354</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1733795928354</updated>
+    </task>
+    <task id="LOCAL-00018" summary="28th Dec">
+      <option name="closed" value="true" />
+      <created>1735353468054</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1735353468055</updated>
+    </task>
+    <task id="LOCAL-00019" summary="28th Dec">
+      <option name="closed" value="true" />
+      <created>1735353522752</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1735353522752</updated>
+    </task>
+    <task id="LOCAL-00020" summary="31 Dec">
+      <option name="closed" value="true" />
+      <created>1735612511250</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1735612511250</updated>
+    </task>
+    <task id="LOCAL-00021" summary="2nd Jan 2025">
+      <option name="closed" value="true" />
+      <created>1735784158824</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1735784158824</updated>
+    </task>
+    <task id="LOCAL-00022" summary="16th Jan">
+      <option name="closed" value="true" />
+      <created>1736995106253</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1736995106253</updated>
+    </task>
+    <task id="LOCAL-00023" summary="21th Jan">
+      <option name="closed" value="true" />
+      <created>1737427205819</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1737427205819</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName=".env" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="7th nov" />
+    <MESSAGE value="9th nov" />
+    <MESSAGE value="9th nov - Part2" />
+    <MESSAGE value="9th nov - Part3" />
+    <MESSAGE value="12th Nov" />
+    <MESSAGE value="16th Nov" />
+    <MESSAGE value="19th Nov" />
+    <MESSAGE value="21th" />
+    <MESSAGE value="23th" />
+    <MESSAGE value="26th" />
+    <MESSAGE value="28th" />
+    <MESSAGE value="30th" />
+    <MESSAGE value="30th - paRT 2" />
+    <MESSAGE value="3rd Dec" />
+    <MESSAGE value="5th dec" />
+    <MESSAGE value="7th Dec" />
+    <MESSAGE value="10th Dec" />
+    <MESSAGE value="28th Dec" />
+    <MESSAGE value="31 Dec" />
+    <MESSAGE value="2nd Jan 2025" />
+    <MESSAGE value="16th Jan" />
+    <MESSAGE value="21th Jan" />
+    <option name="LAST_COMMIT_MESSAGE" value="21th Jan" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="robot-line">
+          <url>file://$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab054_For.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="robot-line">
+          <url>file://$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab054_For.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
